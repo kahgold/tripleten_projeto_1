@@ -1,4 +1,4 @@
-# Projeto: Se liga na música
+# Projeto: Y.music
 
 In this project I compared the musical preferences of the citizens of Springfild and Shelbyville. I examined real data from Y.Music to test hypotheses and compare the behavior of users in these two cities.
 
