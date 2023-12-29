@@ -8,13 +8,13 @@ Neste projeto comparei as preferências musicais dos cidadãos de Springfild e S
 - Os ouvintes em Springfield e Shelbyville têm preferências diferentes. Em Springfield, as pessoas preferem o pop, enquanto Shelbyville tem mais fãs de rap.
 
 **Descrições das colunas**
-- 'userID' - identificador do usuário
-- 'Track' - título da faixa
-- 'artist' - nome do artista
-- 'genre' - gênero de música
-- 'city' - cidade do usuário
-- 'time' - a hora exata em que a faixa foi reproduzida
-- 'Day' - dia da semana
+- `userID` - identificador do usuário
+- `Track` - título da faixa
+- `artist` - nome do artista
+- `genre` - gênero de música
+- `city` - cidade do usuário
+- `time` - a hora exata em que a faixa foi reproduzida
+- `Day` - dia da semana
 
 **Conclusões**
 
